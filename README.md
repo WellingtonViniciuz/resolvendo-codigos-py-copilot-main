@@ -13,6 +13,7 @@ O projeto consiste em três scripts estruturados de forma direta e limpa (sem co
 ## 💻 Códigos-Fonte
 
 ### `concat_dados.py`
+
 ```python
 dado1 = input()
 dado2 = input()
@@ -23,6 +24,7 @@ print(resultado)
 ```
 
 ### `ope_mat.py`
+
 ```python
 num1 = float(input())
 num2 = float(input())
@@ -33,6 +35,7 @@ print(resultado)
 ```
 
 ### `repet_txt.py`
+
 ```python
 texto = input()
 numero_repeticoes = int(input())
@@ -44,9 +47,9 @@ print(resultado)
 
 ## 🚀 Tecnologias Utilizadas
 
-* **Python 3.x**: Linguagem de programação para codificação das soluções.
-* **GitHub Copilot**: Ferramenta de IA utilizada para ganho de produtividade no processo de desenvolvimento.
-* **Git & GitHub**: Ferramentas para controlo de versão e alojamento do código.
+- **Python 3.x**: Linguagem de programação para codificação das soluções.
+- **GitHub Copilot**: Ferramenta de IA utilizada para ganho de produtividade no processo de desenvolvimento.
+- **Git & GitHub**: Ferramentas para controlo de versão e alojamento do código.
 
 ## 🛠️ Como Executar o Projeto
 
@@ -67,4 +70,5 @@ print(resultado)
 Desenvolvido por [Wellington Vinícius](https://github.com/WellingtonViniciuz).
 
 ---
-*Projeto desenvolvido para fins educacionais na plataforma da DIO.*
+
+_Projeto desenvolvido para fins educacionais na plataforma da DIO._
